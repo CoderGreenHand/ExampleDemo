@@ -1,9 +1,6 @@
-package com.example.entity;
+package com.example.bean;
 
 import org.springframework.stereotype.Component;
-
-import javax.persistence.Entity;
-import javax.persistence.Id;
 
 @Component
 public class HyScenicSpotPassenger {

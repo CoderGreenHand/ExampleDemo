@@ -1,6 +1,6 @@
 package com.example.mapper;
 
-import com.example.entity.HyScenicSpotPassenger;
+import com.example.bean.HyScenicSpotPassenger;
 import org.apache.ibatis.annotations.Mapper;
 
 @Mapper
